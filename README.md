@@ -13,3 +13,7 @@ I love adventure so this is my photo
 
  * note: I didn't upload it until I ask how.
 
+
+## Summary of article
+
+a good software programmer should do the code in easy, simple way,don't do an asumption for future, avoid complixity as he can to maintan his work and make the user benfit from it. also he must use the things that presnt to help him not to reinent something exist.
