@@ -6,7 +6,7 @@ _I'm from Irbid but lives in Zarqa_
 Computer operating system windows 10 pro and version 10.0.19044 build 19044
 >*I want a mentor to help me in programming* 
 
-[My GitHub URL](https://github.com/Lujain92)
+
 
 I love adventure so this is my photo 
 ![my image in wadi rajb](./images/)
