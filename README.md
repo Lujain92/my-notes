@@ -9,7 +9,7 @@ Computer operating system windows 10 pro and version 10.0.19044 build 19044
 
 
 I love adventure so this is my photo 
-![my image in wadi rajb](./images/)
+![my image in wadi rajb](./images/photo1658769452.jpeg)
 
  * note: I didn't upload it until I ask how.
 
